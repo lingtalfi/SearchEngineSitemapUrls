@@ -10,8 +10,8 @@ Pull requests are welcome.
 
 
 
-Search Engine			|     symbolic url
------------------- | ------------------
-Google			|  http://www.google.com/webmasters/sitemaps/ping?sitemap={url}
-Bing			|		http://www.bing.com/webmaster/ping.aspx?siteMap={url}
-Ask				|  http://submissions.ask.com/ping?sitemap={url}
+Search Engine			|     symbolic url			| Comment
+------------------ | ------------------ | -----------------
+Google			|  http://www.google.com/webmasters/sitemaps/ping?sitemap={url} 	 | 
+Bing			|		http://www.bing.com/webmaster/ping.aspx?siteMap={url} 		|
+Ask				|  http://submissions.ask.com/ping?sitemap={url}			| doesn't work anymore
